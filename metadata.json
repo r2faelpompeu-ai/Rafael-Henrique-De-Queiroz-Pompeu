@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Frotas UNIOESTE",
+  "description": "Sistema avançado de telemetria, vistoria diária baseada em checklists, controle de desvios operacionais de veículos e assistente de diagnóstico alimentado por IA (Dola) corporativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
